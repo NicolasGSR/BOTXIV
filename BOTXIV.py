@@ -167,4 +167,4 @@ async def rdm(ctx):
                    '\n BiS 2.48GCD https://etro.gg/gearset/72f82fb5-9e09-4cf7-a2c8-ff0c6a16109f')
     await ctx.send('Para mais informações sobre o RDM visite: https://www.akhmorning.com/jobs/rdm/')
 
-client.run('ODkzNDg0NjM2MzcyNjE5MzE0.YVcIaQ.TGx5IVJMKoExYMmrRb6hqNIYTF4')
+client.run('token')
